@@ -1,0 +1,3 @@
+description: Read-only discovery of approved job sources; never applies, contacts employers, or changes accounts.
+role_group: Job Search Team
+settings_type: documentation-only

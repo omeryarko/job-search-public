@@ -1,0 +1,21 @@
+# Never add local/private job-search state
+.env
+.env.*
+*.pem
+*.key
+candidate/
+data/
+reports/
+applications/
+cache/
+sessions/
+*.sqlite
+*.sqlite3
+*.db
+*.docx
+*.pdf
+
+# OS/editor files
+.DS_Store
+._*
+__pycache__/
